@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleAppReadAzureSql": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "connectionstring": "Server=tcp:rkdemo.database.windows.net,1433;Initial Catalog=hubdata;Persist Security Info=False;User ID=rick;Password=mind123#;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+      }
+    }
+  }
+}
